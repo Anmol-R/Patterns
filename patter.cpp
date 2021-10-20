@@ -116,6 +116,7 @@ for(int i=1;i<=n;i++){
 101
 0101
 10101
+010101
  for(int i=1;i<=n;i++){
         for(int j=1;j<=i;j++){
             if((i+j)%2==0)
