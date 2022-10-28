@@ -34,6 +34,7 @@ void Inverted_halfpyramid()
     }
 }
 
+// this is main function
 int main()
 {
     int choose;
